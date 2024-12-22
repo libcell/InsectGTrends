@@ -12,6 +12,10 @@ Jing Sun<sup>1,2,3</sup>, Yingxue Xiao<sup>1</sup>, *et al.*
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://libcell.github.io)
 [![](https://img.shields.io/badge/follow%20me%20on-WeChat-green.svg)](https://libcell.github.io)
 
+- The orders of insects for which complete genomes have been sequenced, along with their taxonomic classification within the class Insecta. 
+
 <img src="img/frontpage.png" width="750" style="display: block; margin-left: auto; margin-right: auto;">
+
+
 
 
