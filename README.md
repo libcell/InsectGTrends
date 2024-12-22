@@ -12,5 +12,5 @@ Jing Sun<sup>1,2,3</sup>, Yingxue Xiao<sup>1</sup>, *et al.*
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://libcell.github.io)
 [![](https://img.shields.io/badge/follow%20me%20on-WeChat-green.svg)](https://libcell.github.io)
 
-<img src = "img/frontpage.png" width = "700" style="display: block; margin: 0 auto;"> 
+<img src="image/schizophrenia.png" width="800" style="display: block; margin-left: auto; margin-right: auto;">
 
