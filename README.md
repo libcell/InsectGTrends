@@ -14,7 +14,7 @@ Jing Sun<sup>1,2,3</sup>, Yingxue Xiao<sup>1</sup>, *et al.*
 
 - The orders of insects for which complete genomes have been sequenced, along with their taxonomic classification within the class Insecta. 
 
-<img src="img/frontpage.png" width="750" style="display: block; margin-left: auto; margin-right: auto;">
+<img src="img/frontpage.png" width="800" style="display: block; margin-left: auto; margin-right: auto;">
 
 
 
